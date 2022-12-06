@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 
 # we need to pipe our data to the `while`s using process substitution
 # so that our variables stay in scope.
